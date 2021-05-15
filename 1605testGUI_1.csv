@@ -1,0 +1,12 @@
+,R,G,B,Plant,Ref,measure,PPFD,Type,Hours per day, Total Days,Fresh weight (g),Plant height (cm),FW(%),PH(%)
+2,100,0,0,Artichoke (cardoon),Natural light,Plant Height,236.54,3,8,30,,22,,34.146%
+,100,0,0,Artichoke (GreenGlobe),Natural light,Plant Height,236.54,3,8,30,,19.5,,107.447%
+,100,0,0,Artichoke (violetto),Natural light,Plant Height,236.54,3,8,30,,20,,78.571%
+3,88.88,0,11.11,Chinese Kale,White (control),Plant Height,120,3,12,34,44.9,25.5,14.834%,11.842%
+7,88.88,0,11.11,Lettuce ,FL (control),Fresh Weight,200,3,12,25,118.04,,214.103%,
+11,80,0,20,Red Oakleaf,FL (control),Fresh Weight,200,3,16,42,20.14,,78.703%,
+15,100,0,0,potato,FL (control),Plant Height,100,2,16,28,0.2965,11.2,-25.949%,74.455%
+,45,20,35,potato,FL (control),Fresh Weight,100,2,16,28,0.4302,7.27,7.443%,13.240%
+19,66,33,0,tomato,FL (control),Plant Height,Non-mycorrhizal (NM),2,15,120,27.98,119,-2.982%,133.333%
+21,100,0,0,Oncidium,FL (control),Plant Height,50,1,24,30,,3.925,,22.656%
+26,0,0,100,Myrtus communis,Control light,Fresh Weight,35,1,24,42,0.2756,,53.367%,
