@@ -1,0 +1,7 @@
+R,G,B,Plant,Ref,measure,PPFD,Type,Hours per day, Total Days,Fresh weight (g),Plant height (cm),FW(%),PH(%)
+100,0,0,Artichoke (cardoon),Natural light,Plant Height,236.54,3,8,30,,22,,34.146%
+100,0,0,Artichoke (GreenGlobe),Natural light,Plant Height,236.54,3,8,30,,19.5,,107.447%
+100,0,0,Artichoke (violetto),Natural light,Plant Height,236.54,3,8,30,,20,,78.571%
+88.88,0,11.11,Chinese Kale,White (control),Plant Height,120,3,12,34,44.9,25.5,14.834%,11.842%
+88.88,0,11.11,Lettuce ,FL (control),Fresh Weight,200,3,12,25,118.04,,214.103%,
+80,0,20,Red Oakleaf,FL (control),Fresh Weight,200,3,16,42,20.14,,78.703%,
