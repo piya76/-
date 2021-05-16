@@ -1,0 +1,17 @@
+Plant,R,G,B,ref,measure,Type,others,Hours per day,FW(%),PH(%)
+Artichoke (cardoon),100,0,0,Natural light,Plant height,3,PPFD = 236.54,8,,34.146%
+Artichoke (GreenGlobe),100,0,0,Natural light,Plant height,3,PPFD = 236.54,8,,107.447%
+Artichoke (violetto),100,0,0,Natural light,Plant height,3,PPFD = 236.54,8,,78.571%
+Chinese Kale,88.88,0,11.11,White (control),"Fresh weight,Plant height",3,PPFD = 120,12,14.834%,11.842%
+Lettuce ,88.88,0,11.11,FL,Fresh weight,3,PPFD =200,12,214.103%,
+Red Oakleaf,80,0,20,FL,Fresh weight,3,PPFD = 200,16,78.703%,
+potato,100,0,0,FL,"Fresh weight,Plant height",2,PPFD = 100,16,-25.949%,74.455%
+Morning Glory,100,0,0,FL,Plant height,3,Drain aquaponics system,24,,93.811%
+tomato,66,0,33,FL,"Fresh weight,Plant height",2,Non-mycorrhizal (NM),15,15.430%,36.608%
+Oncidium,100,0,0,FL,Plant height,1,PPFD = 50,24,,22.656%
+Myrtus communis,0,0,100,control,Fresh weight,1,PPFD = 35,24,53.367%,
+vanilla,50,0,50,Fluorescent,Fresh weight,1,PPFD = 25,16,14.285%,-28.070%
+mini chal tomato,30,0,70,Fluorescent,Fresh weight,2,PPFD = 200,24,21.429%,-20.000%
+Dill,93,0,7,High Pressure,Plant height,3,PPFD = 100,24,,16.667%
+Lettice green oak.,75,0,25,sunlight,Plant height,3,hydroponics,16,,12.444%
+Chinese Cabbage,0,0,100,FL,Fresh weight,3,PPFD = 80,12,383.333%,
