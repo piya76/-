@@ -1,4 +1,0 @@
-R,G,B,Plant,Ref,measure,PPFD,Type,Hours per day, Total Days,Fresh weight (g),Plant height (cm),FW(%),PH(%)
-100,0,0,potato,FL (control),Plant Height,100,2,16,28,0.2965,11.2,,74.455%
-45,20,35,potato,FL (control),Fresh Weight,100,2,16,28,0.4302,7.27,7.443%,13.240%
-66,33,0,tomato,FL (control),Plant Height,Non-mycorrhizal (NM),2,15,120,27.98,119,,133.333%
